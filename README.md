@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 💫 About Me:
-I am a Front-End Developer<br>I am currently working on my projects<br>I am presently learning the MERN Stack Development<br>Ask me about
+I am a Full Stack Web Developer<br>I am currently working on my projects<br>I am presently learning the MERN Stack Development<br>Ask me about
 
 
 ## 🌐 Socials:
